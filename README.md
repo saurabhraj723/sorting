@@ -21,7 +21,7 @@ It compares the time taken by the different algorithm for sorting the array.
 
 - HTML 
 - CSS
-- Javascript (p5.js)
+- Javascript 
 
 ---
 
